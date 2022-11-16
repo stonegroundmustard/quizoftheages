@@ -9,6 +9,12 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 Start the quiz using the start button, then hover over the correct answers and click through. Your score will be displayed at the end with the option to save you score with your name into local storage.
 
+##Screenshots
+
+![IMG_7276](https://user-images.githubusercontent.com/114121861/202056797-d0ba621c-1cba-4d48-abe0-9dd911648ecf.jpg)
+![IMG_7277](https://user-images.githubusercontent.com/114121861/202056809-d5607029-56bc-4d03-9546-79d906d9269a.jpg)
+
+
 ## Credits
 
 Juan Delgado, Tutor
